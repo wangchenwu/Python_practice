@@ -1,2 +1,2 @@
-# Python_selfstudy
+# Python自学记录
 Python
